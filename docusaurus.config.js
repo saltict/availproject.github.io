@@ -19,7 +19,9 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'availproject', // Usually your GitHub org/user name.
-  projectName: 'avail-docs-wiki', // Usually your repo name.
+  projectName: 'availproject.github.io', // Usually your repo name.
+  deploymentBranch: 'main',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
