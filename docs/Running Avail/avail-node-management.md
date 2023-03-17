@@ -8,7 +8,7 @@ keywords:
   - polygon
   - avail
   - node
-image: https://wiki.polygon.technology/img/thumbnail/polygon-avail.png
+image: https://availproject.github.io/img/avail/AvailDocs.png
 slug: avail-node-management
 ---
 import Tabs from '@theme/Tabs';

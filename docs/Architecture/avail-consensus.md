@@ -12,7 +12,7 @@ keywords:
   - nominated proof of stake
   - pos
   - npos
-image: https://wiki.polygon.technology/img/thumbnail/polygon-avail.png
+image: https://availproject.github.io/img/avail/AvailDocs.png
 slug: avail-consensus
 ---
 

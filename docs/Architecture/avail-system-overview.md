@@ -10,7 +10,7 @@ keywords:
   - data
   - availability
   - architecture
-image: https://wiki.polygon.technology/img/thumbnail/polygon-avail.png
+image: https://availproject.github.io/img/avail/AvailDocs.png
 slug: avail-system-overview
 ---
 

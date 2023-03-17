@@ -14,7 +14,7 @@ keywords:
   - extrinsic
   - explorer
   - use
-image: https://wiki.polygon.technology/img/thumbnail/polygon-avail.png
+image: https://availproject.github.io/img/avail/AvailDocs.png
 slug: avail-quick-start
 ---
 import Tabs from '@theme/Tabs';
@@ -212,7 +212,7 @@ ts-node account.ts
 
 ```
 
-You will also need to **[connect to a node](../node/avail-node-management.md)** before running
+You will also need to **[connect to a node](../Running Avail/avail-node-management.md)** before running
 the scripts.
 
 :::

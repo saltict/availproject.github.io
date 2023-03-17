@@ -9,7 +9,7 @@ keywords:
   - avail
   - node
   - validator
-image: https://wiki.polygon.technology/img/thumbnail/polygon-avail.png
+image: https://availproject.github.io/img/avail/AvailDocs.png
 slug: avail-validator
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
